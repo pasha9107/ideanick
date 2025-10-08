@@ -1,0 +1,8 @@
+{
+  "eslint.workingDirectories": [
+    "backend",
+    "webapp"
+  ],
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "codium.codeCompletion.enable": true
+}
